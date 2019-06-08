@@ -9,6 +9,7 @@ import java.util.ListIterator;
 import java.util.Set;
 import java.util.TreeSet;
 
+//test for request
 public class Eclat extends FrequentElemCalculation {
 
 	public Eclat(HashMap<TreeSet<Integer>, HashMap<Integer, HashSet<Integer>>> data, double frequence) {
